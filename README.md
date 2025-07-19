@@ -24,12 +24,14 @@ It focuses on overall business metrics like total sales, profit, and order volum
 
 - Power BI  
 - Excel (Superstore dataset)
+- Power query
 
 ---
 
 ##  Files
 
-- superstore Sales Reprt.pbix – Full interactive report  
+- Superstore Sales Reprt.pbix – Full interactive report
+- Superstore Sales Dataset.xlxs - Dataset
 - SS1, SS2.png – Dashboard preview image  
 
 ---
@@ -38,7 +40,7 @@ It focuses on overall business metrics like total sales, profit, and order volum
 
 1. Download the .pbix and dataset files 
 2. Open it in Power BI Desktop  
-3. Use filters/slicers to explore category-wise performance and KPIs  
+3. Use filters/slicers to explore ineractivity in the dashboard
 
 ---
 
